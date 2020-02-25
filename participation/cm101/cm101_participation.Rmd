@@ -102,6 +102,12 @@ Best of luck - this project course will be tonnes of fun !
 
 ## Part 3: Review of STAT545 (45 mins)
 
+## Participation worksheet
+
+- Download the participation worksheet from [here](https://github.com/STAT547-UBC-2019-20/Discussions/blob/master/participation/cm101/cm101_participation.Rmd)
+- Add it to your local clone of your participation repo (don't forget to ["accept"](https://classroom.github.com/a/uYT4-Doe) your participation repo first)
+- Today's participation activities are all at the end, in the section "Do I need more practice with the tidyverse?"
+
 ### Introduction
 
 This section is adapted from Chapter 3 of the [tidynomicon textbook by Greg Wilson](https://gvwilson.github.io/tidynomicon/).
