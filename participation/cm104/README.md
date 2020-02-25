@@ -1,3 +1,3 @@
-# CM 10X - Participation
+# CM 104 - Participation
 
-In this folder, please add the participation Rmd file (and any additional required files) from [here](https://github.com/STAT547-UBC-2019-20/Discussions/participation/cm101/blob/master/README.md) when it is available.
+In this folder, please add the participation Rmd file (and any additional required files) from [here](https://github.com/STAT547-UBC-2019-20/Discussions/tree/master/participation/cm104) when it is available.
