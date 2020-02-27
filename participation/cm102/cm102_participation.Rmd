@@ -1,3 +1,10 @@
+---
+title: "STAT 547 Class Meeting 02: Participation worksheet"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
 # (2) Functional programming in R: Part I
 
 ```{r, include=FALSE}
