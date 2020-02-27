@@ -136,7 +136,7 @@ You can do this all on GitHub.com - no need to clone locally.
 For more information on some tips of configuring RStudio to work with git, see [this support article](https://support.rstudio.com/hc/en-us/articles/200532077?version=1.2.5019&mode=desktop).
 ## Part 2: Introduction to functional programming (FP) (10 mins)
 
-- Motivation: Hadley Wickham's cupcake recipes
+- [Motivation: Hadley Wickham's cupcake recipes](https://speakerdeck.com/hadley/the-joy-of-functional-programming?slide=13)
 
 ## Part 3: Vectorization
 
