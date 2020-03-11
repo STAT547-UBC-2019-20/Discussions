@@ -1,3 +1,5 @@
 # CM 106 - Participation
 
-In this folder, please add the participation Rmd file (and any additional required files) from [here](https://github.com/STAT547-UBC-2019-20/Discussions/tree/master/participation/cm106) when it is available.
+You get a freebie today! No participation worksheet because we're mostly working with demos.
+
+Feel free to follow along in your final report Rmd file if you want to play around with some of the options.
