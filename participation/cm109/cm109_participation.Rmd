@@ -38,6 +38,7 @@ By the end of this class you will :
 - apply principles of effective dashboards when creating your own.
 - link two graphs together using multi-level callbacks.
 - explore sample dashboard layouts.
+- The [repl.it](https://repl.it/join/zjzcanpx-firasm) for today.
 
 ## Part 1: Effective Dashboards [25 mins]
 
@@ -174,7 +175,6 @@ app$run_server()
 
 # command to add dash app in Rstudio viewer:
 # rstudioapi::viewer("http://127.0.0.1:8050")
-
 ``` 
 
 **Step 0 : create the new graph**
@@ -286,7 +286,7 @@ Your final code should be similar to this:
 # author: YOUR NAME
 # date: THE DATE
 
-"This script is the main file that creates a Dash app for cm108 on the gapminder dataset.
+"This script is the main file that creates a Dash app for cm109 on the gapminder dataset.
 
 Usage: app.R
 "
@@ -481,7 +481,7 @@ These were done by former students:
 Next class, we will explore in detail how to achieve the aesthetics that we need. 
 In the meantime, feel free to explore one of the layouts from [this repo](https://github.com/matthewconnell/dashr_sample_layouts) created by Matthew as a starting point.
 
-## Appendix: Another example of a Dash multi-level callback
+## OPTIONAL Appendix: Another example of a Dash multi-level callback
 
 **Link between a bar chart and a scatter plot**
 
