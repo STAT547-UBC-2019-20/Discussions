@@ -277,6 +277,8 @@ Feel free to explore one of the layouts from [this repo](https://github.com/matt
 
 ## Part 4: Looking ahead [5 mins]
 
+If there is extra time in class, you should get into a breakout room with your project partner and spend 10-15 mins coming up with a layout for your project app.
+
 Here are three examples of **deployed** dashboards look like in R once layouts have been applied to them. 
 These were done by former students:
 

@@ -67,7 +67,7 @@ app$layout(
 			div_main
 		), #### THIS IS NEW! Styles added
 			style = list('display' = 'flex',
-								 'justify-content'='space-around')
+								 'justify-content'='center')
 	)
 )
 
